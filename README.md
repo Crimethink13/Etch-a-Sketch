@@ -2,4 +2,6 @@
 
 Create an Etch-a-Sketch program using HTML, CSS and JavaScript.
 
-The user should be able to pick a grid size and color.
+This was super hard. I had to look at code from other people in places where I got stuck.
+
+Still super happy with the end result.
